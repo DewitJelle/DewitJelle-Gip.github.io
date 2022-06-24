@@ -124,7 +124,10 @@ div.Animatie, div.Video{
 }
 
 
-
+.videotext{
+	color: White;
+	margin-left: 3em;
+}
 
 
 /* FORUM */
